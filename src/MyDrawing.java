@@ -9,6 +9,8 @@ public class MyDrawing extends JPanel {
 	public MyDrawing() 
 	{
 		// Add critters to the drawing
+		// and add others.
+		// 
 		cat = new Cat();
 	}
 	// paintComponent is called automatically when the frame needs
